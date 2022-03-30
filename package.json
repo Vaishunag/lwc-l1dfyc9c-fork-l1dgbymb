@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/vaishunag.lwc-l1dfyc9c-fork-l1dgbymb",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KBTjlmDHO6dctWPFBDzS --open"
+  }
+}
